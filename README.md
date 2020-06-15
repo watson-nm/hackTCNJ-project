@@ -4,7 +4,7 @@
  ```
  ./viewGIF
  ```
- Input names of gifs line by line at the prompt `Type in the GIFs you want to put together:` , ending with `end`.
+ Input names of gifs line by line at the prompt `Type in the GIFs you want to put together:` ending with `end`.
  For example:
  ```
  helloworld.gif
